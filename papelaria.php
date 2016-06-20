@@ -32,12 +32,13 @@
             </div>
             <div class="col-md-4"><br>
                 <ul class="list-group">
+                   <li class="list-group-item"><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive"></li>
                    <li class="list-group-item">Tamanho: 9,1 x 5,38cm</li>
                    <li class="list-group-item">Cor: 4x4</li>
                    <li class="list-group-item">Papel: 300g couchê.</li>
                    <li class="list-group-item">Acabamento: laminação fosca.</li>
-                   <li class="list-group-item"><a href="image/papelaria/cartoes/cartao-masutti.pdf" i class="fa fa-download fa-2x" aria-hidden="true"></i></a>
-                   </li>
+                   <li class="list-group-item"><a href="image/papelaria/cartoes/cartao-masutti.pdf" i class="fa fa-download fa-2x" aria-hidden="true"></i></a></li>
                </ul>
            </div>
            </div>
@@ -47,21 +48,39 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-            Collapsible Group 2</a>
+            Envelopes</a>
         </h4>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat.</div>
+      <div class="panel-body"><div class="col-md-4">
+                <img src="image/papelaria/envelopes/Envelope-20x28cm-02.svgz" class="img-responsive">
+            </div>
+        <div class="col-md-4"><br>
+            <ul class="list-group">
+                  <li class="list-group-item">Tamanho: 20 x 28cm</li>
+              <li class="list-group-item">Cor: 4x0</li>
+              <li class="list-group-item">Papel: Sulfite 120g.</li>
+              <li class="list-group-item">Acabamento: Sem verniz, corte, vinco e cola.</li>
+               <li class="list-group-item"><a href="image/papelaria/envelopes/envelope-20x28cm.pdf" i class="fa fa-download fa-2x" aria-hidden="true"></i></a></li>
+           </ul>
+          </div>
+        <div class="col-md-4"><br>
+             <ul class="list-group">
+                <li class="list-group-item">Tamanho: 26x36cm</li>
+                <li class="list-group-item">Cor: 4x0</li>
+                <li class="list-group-item">Papel: Sulfite 120g.</li>
+                   <li class="list-group-item">Acabamento: Sem verniz, corte, vinco e cola.</li>
+                <li class="list-group-item"><a href="image/papelaria/envelopes/envelope-26x36cm.pdf" i class="fa fa-download fa-2x" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+            </div>
       </div>
   </div>
   <div class="panel panel-primary">
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-            Collapsible Group 3</a>
+            Crachás</a>
         </h4>
     </div>
     <div id="collapse3" class="panel-collapse collapse">

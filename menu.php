@@ -31,6 +31,14 @@
 						</li>
 					</ul>
 				</li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">EPI <i class="fa fa-angle-down fa-lg"></i></a>
+					<ul class="dropdown-menu" role="menu">
+						<li>
+						<a href="extintor.php">Extintores</a>
+						</li>
+					</ul>
+				</li>
 			</ul>
 		</div>
 	</div>
