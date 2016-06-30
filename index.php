@@ -16,11 +16,6 @@
         <!-- Menu) -->
         <?php include 'menu.php';?>
 
-
-        <h1>Teste</h1>
-
-
-
         <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
         <?php include 'js.php';?>
       </body>

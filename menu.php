@@ -32,10 +32,13 @@
 					</ul>
 				</li>
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">EPI <i class="fa fa-angle-down fa-lg"></i></a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Agrícola <i class="fa fa-angle-down fa-lg"></i></a>
 					<ul class="dropdown-menu" role="menu">
 						<li>
-						<a href="extintor.php">Extintores</a>
+						<a href="blocos.php">Blocos</a>
+						</li>
+                        <li>
+						<a href="oficina.php">Oficina</a>
 						</li>
 					</ul>
 				</li>

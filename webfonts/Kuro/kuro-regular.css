@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'Kuro';
+	src: url('Kuro-Regular.eot');
+	src: url('Kuro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Kuro-Regular.woff') format('woff');
+}

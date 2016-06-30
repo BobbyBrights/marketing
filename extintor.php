@@ -242,7 +242,7 @@
                     <li class="list-group-item">Acabamento: PVC</li>
                     <li class="list-group-item">Codigo: M 02 19</li>
                     <a class="list-group-item" href="image/epi/extintores/M 02 19.zip">
-                      <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
                     </a>
                 </ul>
               </div>
@@ -272,7 +272,7 @@
                     <li class="list-group-item">Acabamento: PVC</li>
                     <li class="list-group-item">Codigo: M 02 21</li>
                     <a class="list-group-item" href="image/epi/extintores/M 02 21.zip">
-                       <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
                     </a>
                 </ul>
               </div>
@@ -286,7 +286,7 @@
                     <li class="list-group-item">Acabamento: PVC</li>
                     <li class="list-group-item">Codigo: M 02 22</li>
                     <a class="list-group-item" href="image/epi/extintores/M 02 22.zip">
-                      <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
                     </a>
                 </ul>
               </div>
@@ -326,7 +326,7 @@
                     class="img-responsive"></li>
                     <li class="list-group-item">Cor: 4x0</li>
                     <li class="list-group-item">Tamanhos: <br>
-                     15x20, 20x30 e 30x40</li>
+                    15x20, 20x30 e 30x40</li>
                       <li class="list-group-item">Acabamento: PVC</li>
                       <li class="list-group-item">Codigo: M 02 25</li>
                       <a class="list-group-item" href="image/epi/extintores/M 02 25.zip">
@@ -408,7 +408,232 @@
             </ul>
           </div>
         </div>
-      </div>
+              <div class="panel-body">
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 31.svg"
+                      class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                    12x24, 20x40 <br> e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 31</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 31.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 32.svg"
+                      class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                    12x24, 20x40 <br> e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 32</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 32.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 33.svg"
+                    class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                    12x24, 20x40 <br> e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 33</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 33.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 34.svg"
+                  class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                    12x24, 20x40 <br> e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 34</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 34.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                 <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 35.svg"
+                  class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br> e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 35</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 35.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 36.svg"
+                  class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br> e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 36</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 36.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+              </div>
+              <div class="panel-body">
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 37.svg"
+                      class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 37</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 37.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 38.svg"
+                      class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 38</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 38.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 39.svg"
+                    class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 39</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 39.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 40.svg"
+                  class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 40</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 40.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 41.svg"
+                  class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 41</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 41.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 42.svg"
+                  class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 42</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 42.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+              </div>
+              <div class="panel-body">
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 43.svg"
+                      class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 43</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 43.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 44.svg"
+                      class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 44</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 44.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><img src="image/epi/extintores/M 02 45.svg"
+                    class="img-responsive"></li>
+                    <li class="list-group-item">Cor: 4x0</li>
+                    <li class="list-group-item">Tamanhos: <br>
+                      12x24, 20x40 <br>
+                      e 30x60</li>
+                    <li class="list-group-item">Acabamento: PVC</li>
+                    <li class="list-group-item">Codigo: M 02 45</li>
+                    <a class="list-group-item" href="image/epi/extintores/M 02 45.zip">
+                    <i class="fa fa-download fa-2x" aria-hidden="true" style="color:#009E94"></i>
+                    </a>
+                  </ul>
+                </div>
+</div>
+          </div>
 
     </div>
     <div class="panel panel-primary">
